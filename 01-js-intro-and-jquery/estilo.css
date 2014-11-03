@@ -1,0 +1,19 @@
+.contenedor{
+	text-align: left;
+	width: 50%;
+	height: 100%;
+	float: right;
+	background-color:rgba(0,150,0,0.3);
+	
+
+}
+
+#section{
+	text-align: center;
+	width: 50%;
+	height: 100%;
+	float : left;
+}
+
+
+
