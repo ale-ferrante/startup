@@ -1,0 +1,32 @@
+body{
+	margin: none;
+
+}
+
+.imagen{
+	float: right;
+	width: 75%;
+
+}
+
+.datos{
+	float: left;
+	text-align: left;
+	width: 15%;
+	height: 30%;
+	font-family: verdana;
+	line-height: 10%;
+}
+
+.experiencia{
+
+	float: left;
+	text-align: left;
+	font-family: verdana;
+	line-height: 10%;
+}
+
+div{
+	margin-bottom:  10px;
+}
+
