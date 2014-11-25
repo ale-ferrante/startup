@@ -1,0 +1,19 @@
+.navbar {
+	background-image: url('nav-verde.jpg');
+	color: black ; 
+}
+
+.navbar-brand{
+	color:black;
+}
+
+.nav {
+	color:black;
+}
+
+
+.panel-body{
+
+	padding: 20px;
+}
+
